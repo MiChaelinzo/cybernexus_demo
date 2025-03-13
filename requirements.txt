@@ -1,0 +1,7 @@
+streamlit
+any G-AI you want etc.
+psutil 
+speedtest-cli 
+netifaces 
+requests 
+pyyaml
