@@ -4,10 +4,10 @@ Core AGI Agent Module (REAL)
 This module defines the core Advanced General Intelligence (AGI)
 agent logic for CyberNexus.
 
-It includes the system instruction for the Gemini model.
+It includes the system instruction for the any AI model.
 
 Future enhancements:
-- Integrate a fine-tuned Gemini model for intent classification and dynamic response generation.
+- Integrate a fine-tuned any AI model for intent classification and dynamic response generation.
 - Implement a neural network-based dialogue manager for more context-aware conversations.
 - Develop adaptive learning mechanisms to personalize responses based on user interactions.
 """
