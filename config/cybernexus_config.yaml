@@ -1,0 +1,27 @@
+# CyberNexus Configuration File (DEMO - Fictional)
+
+# --- AGI Agent Settings ---
+AGI_MODEL_VERSION: "CyberNexus-AGI-v2.5-Demo"
+API_SECURITY_LEVEL: "Enhanced-Demo-Encryption" # Placeholder - no real encryption
+RESPONSE_STYLE: "Concise-Cyberpunk"
+INTENT_CLASSIFICATION_METHOD: "Keyword-Based-Demo" # Placeholder - not real ML model
+
+# --- System Monitoring Module Settings ---
+SYSTEM_TELEMETRY_FREQUENCY: "5 seconds (Simulated)" # Placeholder - no real frequency
+DISK_SPACE_WARNING_THRESHOLD: "85%" # Placeholder - not actually used
+TEMPERATURE_UNIT: "Celsius"
+
+# --- Network Analyzer Module Settings ---
+NETWORK_SPEEDTEST_SERVER: "Default-Demo-Server" # Placeholder
+NETWORK_SCAN_TYPE: "Basic-Ping-Scan-Demo" # Placeholder - no real scan
+IP_LOOKUP_SERVICE_ENABLED: true
+
+# --- Pi-hole Integration Module Settings ---
+PIHOLE_API_VERSION: "v5.x (Simulated)" # Placeholder
+PIHOLE_RATE_LIMIT_ENABLED: false
+PIHOLE_CONNECTION_TIMEOUT: "10 seconds"
+
+# --- UI Settings ---
+THEME: "Cyberpunk-Neon-v3"
+CHAT_AVATAR_STYLE: "Circular-Neon-Outline"
+UI_ANIMATIONS_ENABLED: true # Placeholder - no real animations yet
