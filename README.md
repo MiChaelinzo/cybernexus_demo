@@ -10,7 +10,7 @@ CyberNexus Pi Eyes code, a malware and ad blocker that detects and monitors your
     ```bash
     streamlit run cybernexus_demo_wow/cybernexus_pi_eye_wow.py
     ```
-Installing Pi-hole is a straightforward process. Here's a quick guide to get you started:
+Installing Pi-hole 🌌  is a straightforward process. Here's a quick guide to get you started:
 
 1. **Prepare Your System**: Pi-hole works best on a Raspberry Pi, but it can also run on other Linux-based systems. Ensure your device is connected to the internet and updated.
 
