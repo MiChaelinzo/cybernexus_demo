@@ -1,5 +1,5 @@
 # cybernexus_demo
-CyberNexus AI code, a malware and ad blocker that detects and monitors your local networks🛜📶
+CyberNexus Pi Eyes code, a malware and ad blocker that detects and monitors your local networks🛜📶
 
 1.  **Install Libraries (if you haven't already):**
     ```bash
