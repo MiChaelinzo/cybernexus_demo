@@ -1,5 +1,5 @@
 # cybernexus_demo
-CyberNexus Pi Eyes AI-Agent demo code, a malware and ad blocker that detects and monitors your local networks🛜📶
+CyberNexus Pi Eyes AI-Agent demo code, an anti-virus, malware, and ad blocker, etc. that detects and monitors your local networks🛜📶
 Can be installed in a Quantum-PC for more processors and speed, etc.
 
 1.  **Install Libraries (if you haven't already):**
