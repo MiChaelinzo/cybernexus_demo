@@ -5,3 +5,8 @@ speedtest-cli
 netifaces 
 requests 
 pyyaml
+braket-sdk    # AWS Braket SDK for building quantum circuits
+qiskit        # IBM Qiskit SDK for building and running quantum circuits
+numpy         # Required for numerical computations in quantum simulations
+matplotlib     # Visualization of quantum circuits or results
+scipy        # Essential for quantum operations and optimizations
