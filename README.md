@@ -37,6 +37,8 @@ To run and install CyberNexus Pi-Eye Q AI-powered agent for network security in 
 
 Running a Quantum Virtual Private Cloud (VPC) on cloud platforms like AWS, Google Cloud, IBM Cloud, or Microsoft Azure involves setting up a quantum computing environment within a virtual network. Below are general instructions for setting up a quantum VPC on each platform, including terminal access.
 
+<img width="932" alt="Screenshot 2025-03-17 150308" src="https://github.com/user-attachments/assets/422948db-f1d4-4350-a5b4-6ff031fd7fc2" />
+
 ---
 
 ### **1. AWS (Amazon Web Services)**
