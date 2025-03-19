@@ -32,3 +32,117 @@ Installing Pi-hole 🌌  is a straightforward process. Here's a quick guide to g
    Pi-hole comes with a web interface for monitoring and managing settings. You can access it by entering your Pi-hole's IP address in a web browser.
 
 For more detailed instructions, you can check out the [official Pi-hole documentation](https://docs.pi-hole.net/main/basic-install/). Let me know if you need help with any specific step!
+
+To run and install CyberNexus Pi-Eye Q AI-powered agent for network security in a quantum enviroment or system for testing:
+
+Running a Quantum Virtual Private Cloud (VPC) on cloud platforms like AWS, Google Cloud, IBM Cloud, or Microsoft Azure involves setting up a quantum computing environment within a virtual network. Below are general instructions for setting up a quantum VPC on each platform, including terminal access.
+
+---
+
+### **1. AWS (Amazon Web Services)**
+AWS offers quantum computing services through **Amazon Braket**.
+
+#### Steps:
+1. **Create a VPC**:
+   - Go to the AWS Management Console.
+   - Navigate to **VPC > Create VPC**.
+   - Define the IP range, subnets, and security groups.
+
+2. **Set Up Amazon Braket**:
+   - Go to the **Amazon Braket** console.
+   - Create a quantum task or notebook instance.
+   - Attach the notebook instance to your VPC for secure access.
+
+3. **Access via Terminal**:
+   - Launch an EC2 instance within the VPC.
+   - SSH into the EC2 instance using:
+     ```bash
+     ssh -i your-key.pem ec2-user@your-ec2-ip
+     ```
+   - Install the Amazon Braket SDK:
+     ```bash
+     pip install amazon-braket-sdk
+     ```
+   - Run quantum circuits using the Braket SDK.
+
+---
+
+### **2. Google Cloud**
+Google Cloud provides quantum computing through **Cirq** and **Quantum Engine**.
+
+#### Steps:
+1. **Create a VPC**:
+   - Go to the Google Cloud Console.
+   - Navigate to **VPC Network > Create VPC**.
+   - Define subnets and firewall rules.
+
+2. **Set Up Quantum Engine**:
+   - Enable the **Quantum Engine API** in the Google Cloud Console.
+   - Create a quantum processor or simulator.
+
+3. **Access via Terminal**:
+   - Launch a Compute Engine VM within the VPC.
+   - SSH into the VM:
+     ```bash
+     gcloud compute ssh your-vm-name --zone=your-zone
+     ```
+   - Install Cirq:
+     ```bash
+     pip install cirq
+     ```
+   - Use Cirq to write and run quantum circuits.
+
+---
+
+### **3. IBM Cloud**
+IBM Cloud offers quantum computing via **IBM Quantum Experience**.
+
+#### Steps:
+1. **Create a VPC**:
+   - Go to the IBM Cloud Console.
+   - Navigate to **VPC > Create VPC**.
+   - Define subnets and security groups.
+
+2. **Set Up IBM Quantum**:
+   - Go to the **IBM Quantum Experience** dashboard.
+   - Generate an API token for programmatic access.
+
+3. **Access via Terminal**:
+   - Launch a Virtual Server Instance within the VPC.
+   - SSH into the instance:
+     ```bash
+     ssh root@your-instance-ip
+     ```
+   - Install the Qiskit SDK:
+     ```bash
+     pip install qiskit
+     ```
+   - Use Qiskit to run quantum circuits on IBM Quantum backends.
+
+---
+
+### **4. Microsoft Azure**
+Azure provides quantum computing through **Azure Quantum**.
+
+#### Steps:
+1. **Create a VPC (Virtual Network)**:
+   - Go to the Azure Portal.
+   - Navigate to **Virtual Networks > Create Virtual Network**.
+   - Define subnets and network security groups.
+
+2. **Set Up Azure Quantum**:
+   - Go to the **Azure Quantum** workspace.
+   - Create a quantum workspace and link it to your virtual network.
+
+3. **Access via Terminal**:
+   - Launch a Virtual Machine within the Virtual Network.
+   - SSH into the VM:
+     ```bash
+     ssh your-user@your-vm-ip
+     ```
+   - Install the Azure Quantum SDK:
+     ```bash
+     pip install azure-quantum
+     ```
+   - Use the SDK to submit quantum jobs.
+
