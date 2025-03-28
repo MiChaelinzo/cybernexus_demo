@@ -37,14 +37,14 @@ To have it monitoring your local network 📶🛜:
 
 1. **Go to your router IP**
 ```
-192.168.0.1 or 192.168.100.1 depending in your router settings
+192.168.0.1 or 192.168.100.1 depending of your router settings
 ```
 2. **Go to your DNS setting**
 DHCP Server
 Dynamically assign IP addresses to the devices connected to the router
 ```
 Set Primary & Secondary DNS:
-To your Raspberry Pi or Linux System IP
+To your Raspberry Pi or Linux System IPv4 or IPv6
 ```
 
 To run and install CyberNexus Pi-Eye Q AI-powered agent for network security in a quantum enviroment or system for testing:
