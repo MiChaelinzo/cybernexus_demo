@@ -33,6 +33,20 @@ Installing Pi-hole 🌌  is a straightforward process. Here's a quick guide to g
 
 For more detailed instructions, you can check out the [official Pi-hole documentation](https://docs.pi-hole.net/main/basic-install/). Let me know if you need help with any specific step!
 
+To have it monitoring your local network:
+
+1. ** Go to your router IP**
+```
+192.168.0.1 or 192.168.100.1 depending in your router settings
+```
+2. ** Go to your DNS setting**
+DHCP Server
+Dynamically assign IP addresses to the devices connected to the router
+```
+Set Primary & Secondary DNS:
+To your Raspberry Pi or Linux System IP
+```
+
 To run and install CyberNexus Pi-Eye Q AI-powered agent for network security in a quantum enviroment or system for testing:
 
 Running a Quantum Virtual Private Cloud (VPC) on cloud platforms like AWS, Google Cloud, IBM Cloud, or Microsoft Azure involves setting up a quantum computing environment within a virtual network. Below are general instructions for setting up a quantum VPC on each platform, including terminal access.
