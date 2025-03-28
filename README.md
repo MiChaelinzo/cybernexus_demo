@@ -39,11 +39,12 @@ Running a Quantum Virtual Private Cloud (VPC) on cloud platforms like AWS, Googl
 
 <img width="937" alt="Screenshot 2025-03-28 121639" src="https://github.com/user-attachments/assets/319a2981-0262-4358-aa64-7e1c01c2a544" />
 
+<img width="929" alt="Screenshot 2025-03-28 121747" src="https://github.com/user-attachments/assets/4cccb710-3500-4f52-b1a6-a4ba18b1469e" />
+
 <img width="932" alt="Screenshot 2025-03-17 150308" src="https://github.com/user-attachments/assets/422948db-f1d4-4350-a5b4-6ff031fd7fc2" />
 
 ![485310300_690097120029453_6660953306619613434_n](https://github.com/user-attachments/assets/8cad3c8f-0715-4d2e-bd14-3dd1726adee7)
 
-<img width="929" alt="Screenshot 2025-03-28 121747" src="https://github.com/user-attachments/assets/4cccb710-3500-4f52-b1a6-a4ba18b1469e" />
 
 ---
 
