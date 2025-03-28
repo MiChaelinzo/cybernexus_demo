@@ -1,6 +1,6 @@
 # cybernexus_demo
 CyberNexus Pi Eyes AI-Agent demo code, an anti-virus, malware, and ad blocker, etc. that detects and monitors your local networks🛜📶
-Can be installed in a Quantum-PC for more processors and speed, etc.
+Can be installed in a Quantum-PC for more processors, speed, & security etc.
 
 1.  **Install Libraries (if you haven't already):**
     ```bash
@@ -33,13 +33,13 @@ Installing Pi-hole 🌌  is a straightforward process. Here's a quick guide to g
 
 For more detailed instructions, you can check out the [official Pi-hole documentation](https://docs.pi-hole.net/main/basic-install/). Let me know if you need help with any specific step!
 
-To have it monitoring your local network:
+To have it monitoring your local network 📶🛜:
 
-1. ** Go to your router IP**
+1. **Go to your router IP**
 ```
 192.168.0.1 or 192.168.100.1 depending in your router settings
 ```
-2. ** Go to your DNS setting**
+2. **Go to your DNS setting**
 DHCP Server
 Dynamically assign IP addresses to the devices connected to the router
 ```
